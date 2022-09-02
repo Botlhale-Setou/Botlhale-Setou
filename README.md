@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach out via **botlhale.setou@gmail.com**
 
-- ⚡ Fun fact **My logo was inspired by my favorite cartoons growing up - [Dexter's Laboratory!](https://www.google.com/search?q=dexters+laboratory&sxsrf=ALiCzsYt4kttxYBBKqcfyF0aeSBXq77tbg:1662133901772&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA4qKmu_b5AhUyoVwKHcTfCDQQ_AUoAXoECAIQAw)**
+- ⚡ Fun fact **My logo was inspired by the greatest cartoon series ever - [Dexter's Laboratory!](https://www.google.com/search?q=dexters+laboratory&sxsrf=ALiCzsYt4kttxYBBKqcfyF0aeSBXq77tbg:1662133901772&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA4qKmu_b5AhUyoVwKHcTfCDQQ_AUoAXoECAIQAw)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
