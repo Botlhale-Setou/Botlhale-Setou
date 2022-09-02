@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Botlhale</h1>
+![Banner](https://raw.githubusercontent.com/Botlhale-Setou/Botlhale-Setou/main/elecbanner.jpg)
+<h1 align="center">Hi, I'm Botlhale.</h1>
 <h3 align="center">A Software Engineering Student at Microverse!</h3>
 
 - 🔭 I’m personally working on [BNK Chicken](https://github.com/Botlhale-Setou/bnkchicken.github.io)
