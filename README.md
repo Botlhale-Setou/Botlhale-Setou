@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Botlhale.</h1>
 <h3 align="center">A Software Engineering Student at Microverse!</h3>
 
-- 🔭 I’m personally working on [BNK Chicken](https://github.com/Botlhale-Setou/bnkchicken.github.io)
+- 🔭 I’m personally working on [BNK Chicken](https://github.com/Botlhale-Setou/bnkchicken.github.io).
 
 - 🌱 I’m currently learning **Full-Stack Web Development with Microverse.**
 
-- 👨‍💻 All of my projects are available at [botlhale-setou.github.io](botlhale-setou.github.io)
+- 👨‍💻 All of my projects are available on [my website](botlhale-setou.github.io).
 
 - 📫 Feel free to reach out via **botlhale.setou@gmail.com**
 
