@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/Botlhale-Setou/Botlhale-Setou/main/elecbanner.jpg)
+<p align="center">
+  <img src="./212b34104893379.5f6cc87656bf0.gif" />
+</p>
 <h1 align="center">Hi, I'm Botlhale.</h1>
 <h3 align="center">A Software Engineering Student at Microverse!</h3>
 
