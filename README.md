@@ -2,9 +2,9 @@
   <img src="./212b34104893379.5f6cc87656bf0.gif" />
 </p>
 <h1 align="center">Hi, I'm Botlhale.</h1>
-<h3 align="center">A Software Engineering Student at Microverse!</h3>
+<h3 align="center">A Software Engineering Student (& Mentor) at Microverse!</h3>
 
-- 🔭 I’m personally working on [BNK Chicken](https://github.com/Botlhale-Setou/bnkchicken.github.io).
+- 🔭 I’m personally working on [BNK Chicken](https://github.com/botlhale-setou.github.io/bnkchicken/home.html).
 
 - 🌱 I’m currently learning **Full-Stack Web Development with Microverse.**
 
