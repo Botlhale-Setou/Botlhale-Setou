@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development with Microverse.**
 
-- 👨‍💻 All of my projects are available on [my website](www.botlhale-setou.github.io).
+- 👨‍💻 All of my projects are available on [my website](https://botlhale-setou.github.io/).
 
 - 📫 Feel free to reach out via **botlhale.setou@gmail.com**
 
